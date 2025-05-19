@@ -1,2 +1,4 @@
+steam
+cuda
 kicad
 gimp
